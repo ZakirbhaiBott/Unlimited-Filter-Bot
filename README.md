@@ -87,6 +87,8 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
+### Deploy to Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTroJanzHEX%2FUnlimited-Filter-Bot&envs=API_HASH%2CAPI_ID%2CAUTH_USERS%2CDATABASE_NAME%2CWEBHOOK%2CTG_BOT_TOKEN%2CDATABASE_URI%2CSAVE_USER%2CHEROKU_API_KEY&DATABASE_NAMEDefault=Cluster0&WEBHOOKDefault=ANYTHING&SAVE_USERDefault=yes&HEROKU_API_KEYDefault=None)
 ### Deploy in your vps
 ```sh
 git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
